@@ -1,6 +1,4 @@
-# NukPack Token Information
- 
-#⚠️WARNING⚠️
+# ⚠️WARNING⚠️
  This is a tool to test the security of your account, NukPack will not take responsibility for any illicit use
 
 # INSTALLATION
